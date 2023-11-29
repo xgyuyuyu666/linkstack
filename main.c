@@ -18,6 +18,7 @@ int main() {
         printf("pop:%d\n", stack_pop(s));
     }
 
+
     s = stack_free(s);
 
     return 0;
